@@ -34,3 +34,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 # Remove unwanted packages
 PRODUCT_PACKAGES += \
     RemovePkgs
+
+# Platform
+TARGET_BOARD_PLATFORM := atoll
